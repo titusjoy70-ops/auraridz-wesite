@@ -1,8 +1,8 @@
 # auraridz.in-wesite
 AURA RIDZ – Smart Corporate Cab Service that reduces transport costs by 10–30% by eliminating empty rides.
-<!DOCTYPE html><meta name="google-site-verification" content="japEAUd-rK_54q6c99ThQW8xB3R6846tTRpluDzkUrc" />
-<html lang="en"><meta name="google-site-verification" content="japEAUd-rK_54q6c99ThQW8xB3R6846tTRpluDzkUrc" />
-<head>
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="google-site-verification" content="japEAUd-rK_54q6c99ThQW8xB3R6846tTRpluDzkUrc" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AURA RIDZ - Corporate Cab Service</title>
